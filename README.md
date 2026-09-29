@@ -1,2 +1,2 @@
-Welcome to Git and Github
-Learning Git and Github
+Welcome to Devops Project 
+Learning Github Actions 

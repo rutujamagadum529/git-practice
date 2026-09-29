@@ -1,2 +1,1 @@
-Welcome to DevOps and GitHub
-Learning Git and Github
+Welcome to Devops Platform/nLearning Git and Github

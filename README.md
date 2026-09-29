@@ -1,2 +1,2 @@
-Welcome to DevOps
+Welcome to DevOps and GitHub
 Learning Git and Github

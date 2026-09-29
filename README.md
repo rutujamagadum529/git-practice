@@ -1,2 +1,2 @@
-My first Git project
+Welcome to DevOps
 Learning Git and Github
